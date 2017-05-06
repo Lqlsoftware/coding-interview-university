@@ -323,8 +323,8 @@
     - [ ] [掌握编译器的优化（C++）（视频）](https://www.youtube.com/watch?v=FnGCDLhaxKU)
 
 - [ ] **浮点数是如何存储的：**
-    - [ ] 简单的 8-bit：[浮点数的表达形式　—— 1（视频 —— 在计算上有一个错误 —— 详情请查看视频的介绍）](https://www.youtube.com/watch?v=ji3SfClm8TU)
-    - [ ] 32 bit：[IEEE754 32-bit 浮点二进制（视频）](https://www.youtube.com/watch?v=50ZYcZebIec)
+    - [x] 简单的 8-bit：[浮点数的表达形式　—— 1（视频 —— 在计算上有一个错误 —— 详情请查看视频的介绍）](https://www.youtube.com/watch?v=ji3SfClm8TU)
+    - [x] 32 bit：[IEEE754 32-bit 浮点二进制（视频）](https://www.youtube.com/watch?v=50ZYcZebIec)
 
 ## 算法复杂度 / Big-O / 渐进分析法
 - 并不需要实现
@@ -365,9 +365,9 @@
             - 可以使用 int 类型的数组，但不能使用其语法特性
             - 从大小为16或更大的数（使用2的倍数 —— 16、32、64、128）开始编写
         - [x] size() —— 数组元素的个数
-        - [ ] capacity() —— 可容纳元素的个数
-        - [ ] is_empty()
-        - [ ] at(index) —— 返回对应索引的元素，且若索引越界则愤然报错
+        - [x] capacity() —— 可容纳元素的个数
+        - [x] is_empty()
+        - [x] at(index) —— 返回对应索引的元素，且若索引越界则愤然报错
         - [ ] push(item)
         - [ ] insert(index, item) —— 在指定索引中插入元素，并把后面的元素依次后移
         - [ ] prepend(item) —— 可以使用上面的 insert 函数，传参 index 为 0
