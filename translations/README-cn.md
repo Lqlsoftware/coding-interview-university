@@ -391,18 +391,18 @@
         - [ ] [CS 61B —— 链表（视频）](https://www.youtube.com/watch?v=sJtJOtXCW_M&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=5)
     - [ ] [C 代码（视频）](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
         - 并非看完整个视频，只需要看关于节点结果和内存分配那一部分即可
-    - [ ] 链表 vs 数组：
+    - [x] 链表 vs 数组：
         - [基本链表 Vs 数组（视频）](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
         - [在现实中，链表 Vs 数组（视频）](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
     - [ ] [为什么你需要避免使用链表（视频）](https://www.youtube.com/watch?v=YQs6IC-vgmo)
     - [ ] 的确：你需要关于“指向指针的指针”的相关知识：（因为当你传递一个指针到一个函数时，该函数可能会改变指针所指向的地址）该页只是为了让你了解“指向指针的指针”这一概念。但我并不推荐这种链式遍历的风格。因为，这种风格的代码，其可读性和可维护性太低。
         - [指向指针的指针](https://www.eskimo.com/~scs/cclass/int/sx8.html)
     - [ ] 实现（我实现了使用尾指针以及没有使用尾指针这两种情况）：
-        - [ ] size() —— 返回链表中数据元素的个数
-        - [ ] empty() —— 若链表为空则返回一个布尔值 true
+        - [x] size() —— 返回链表中数据元素的个数
+        - [x] empty() —— 若链表为空则返回一个布尔值 true
         - [ ] value_at(index) —— 返回第 n 个元素的值（从0开始计算）
-        - [ ] push_front(value) —— 添加元素到链表的首部
-        - [ ] pop_front() —— 删除首部元素并返回其值
+        - [x] push_front(value) —— 添加元素到链表的首部
+        - [x] pop_front() —— 删除首部元素并返回其值
         - [ ] push_back(value) —— 添加元素到链表的尾部
         - [ ] pop_back() —— 删除尾部元素并返回其值
         - [ ] front() —— 返回首部元素的值
