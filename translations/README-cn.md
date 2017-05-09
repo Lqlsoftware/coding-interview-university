@@ -472,8 +472,8 @@
 ## 更多的知识
 
 - ### 二分查找（Binary search）
-    - [ ] [二分查找（视频）](https://www.youtube.com/watch?v=D5SrAga1pno)
-    - [ ] [二分查找（视频）](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
+    - [x] [二分查找（视频）](https://www.youtube.com/watch?v=D5SrAga1pno)
+    - [x] [二分查找（视频）](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
     - [ ] [详情](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
     - [ ] 实现：
         - 二分查找（在一个已排序好的整型数组中查找）
@@ -510,8 +510,8 @@
 ## 树（Trees）
 
 - ### 树 —— 笔记 & 背景
-    - [ ] [系列：基本树（视频）](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)
-    - [ ] [系列：树（视频）](https://www.coursera.org/learn/data-structures/lecture/95qda/trees)
+    - [x] [系列：基本树（视频）](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)
+    - [x] [系列：树（视频）](https://www.coursera.org/learn/data-structures/lecture/95qda/trees)
     - 基本的树形结构
     - 遍历
     - 操作算法
@@ -534,13 +534,13 @@
         - 先序遍历（DFS：节点本身、左、右）
 
 - ### 二叉查找树（Binary search trees）：BSTs
-    - [ ] [二叉查找树概览（视频）](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
+    - [x] [二叉查找树概览（视频）](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
     - [ ] [系列（视频）](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees)
         - 从符号表开始到 BST 程序
     - [ ] [介绍（视频）](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
     - [ ] [MIT（视频）](https://www.youtube.com/watch?v=9Jry5-82I68)
     - C/C++:
-        - [ ] [二叉查找树 —— 在 C/C++ 中实现（视频）](https://www.youtube.com/watch?v=COZK7NATh4k&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=28)
+        - [x] [二叉查找树 —— 在 C/C++ 中实现（视频）](https://www.youtube.com/watch?v=COZK7NATh4k&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=28)
         - [ ] [BST 的实现 —— 在堆栈和堆中的内存分配（视频）](https://www.youtube.com/watch?v=hWokyBoo0aI&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=29)
         - [ ] [在二叉查找树中找到最小和最大的元素（视频）](https://www.youtube.com/watch?v=Ut90klNN264&index=30&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
         - [ ] [寻找二叉树的高度（视频）](https://www.youtube.com/watch?v=_pnqMz5nrRs&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=31)
